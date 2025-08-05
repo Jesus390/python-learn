@@ -1,5 +1,10 @@
-import tkinter as tk
+from tkinter import *
+from tkinter import ttk
 
-window = tk.Tk()
+import getpass
+
+window = Tk()
+
+window.title("Test Tkinter")
 
 window.mainloop()
